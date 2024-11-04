@@ -1,0 +1,367 @@
+
+*{  margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;}
+
+    .block01{
+        width: 100%;
+        height: 607px;
+        background-image: url(IMAGES/1.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover; }
+    .box01{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+            
+    .block02{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/2.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box02{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block03{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/3.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box03{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block04{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/4.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover; }
+    .box04{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block05{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/5.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box05{
+        width: 1000px;
+        height: 657px;
+        margin: 0 auto;
+        position: relative;}
+    .block06{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/6.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover; }
+    .box06{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block07{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/7.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box07{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block08{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/8.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box08{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block09{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/9.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box09{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block10{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/10.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box10{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block11{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/11.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box11{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block12{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/12.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box12{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block13{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/13.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box13{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block14{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/16.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box14{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block15{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/14.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box15{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block16{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/15.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box16{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block17{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/17.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box17{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+    .block18{
+        width: 100%;
+        height: 717px;
+        background-image: url(IMAGES/18.00.png);
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: cover;}
+    .box18{
+        width: 1000px;
+        height: 1080px;
+        margin: 0 auto;
+        position: relative;}
+
+    .font_b_01{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 65px; letter-spacing: 0; line-height: 66px; color: black;}
+    .font_b_02{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 45px; letter-spacing: 0; line-height: 61px; color: black;}
+    .font_b_03{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 38px; letter-spacing: 0; line-height: 52px; color: black;}
+    .font_b_04{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 19px; letter-spacing: 0; line-height: 26px; color: black;}
+    .font_b_05{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 22px; letter-spacing: 0; line-height: 29px; color: black;}
+    .font_b_06{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 22px; letter-spacing: 0; line-height: 29px; color: white;}
+    .font_b_07{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 29px; letter-spacing: 0; line-height: 39px; color: black;}
+    .font_b_08{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 29px; letter-spacing: 0; line-height: 39px; color: white;}
+    .font_b_09{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 15px; letter-spacing: 0; line-height: 20px; color: black;}
+    .font_b_10{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 18px; letter-spacing: 0; line-height: 25px; color: black;}
+    .font_b_11{font-family: "Do Hyeon", sans-serif; font-weight: 400; font-size: 23px; letter-spacing: 0; line-height: 31px; color: black;}
+
+    .txt01{
+        width: 716px;
+        padding-top: 102px;
+        padding-left: 55px;
+    }
+    .txt02{
+        margin: 0 auto;
+        padding-top: 124px;
+        text-align: center;
+    }
+    .txt03{
+        margin: 0 auto;
+        padding-top: 361px;
+        text-align: center;
+    }
+    .txt04{
+        margin: 92px auto;
+        text-align: center;
+    }
+    .txt05{
+        margin: 520px auto;
+        text-align: center;
+    }
+    .txt06{
+        width: 716px;
+        margin: 0 auto;
+        padding-top: 37px;
+        text-align: center;
+    }
+    .txt07{
+        width: 716px;
+        margin: 0 auto;
+        padding-top: 223px;
+        text-align: center;
+    }
+    .txt08{
+        width: 716px;
+        margin: 0 auto;
+        padding-top: 223px;
+        text-align: center;
+    }
+    .txt09{
+        width: 716px;
+        margin: 0 auto;
+        padding-top: 192px;
+        text-align: center;
+    }
+    .txt10{
+        width: 900px;
+        margin: auto 100px;
+        padding-top: 126px;
+        text-align: left;
+    }
+    .txt11{
+        width: 900px;
+        margin: 0 auto;
+        padding-top: 155px;
+        text-align: center;
+    }
+    .txt12{
+        width: 900px;
+        margin: 0 auto;
+        padding-top: 350px;
+        text-align: center;
+    }
+    .txt13{
+        width: 900px;
+        margin: auto 68px;
+        padding-top: 90px;
+        text-align: left;
+    }
+    .txt14{
+        width: 900px;
+        margin: auto 37px;
+        padding-top: 47px;
+        text-align: left;
+    }
+    .txt15{
+        width: 681px;
+        margin: auto 224px;
+        padding-top: 51px;
+        text-align: left;
+    }
+    .txt16{
+        width: 681px;
+        margin: auto 224px;
+        padding-top: 51px;
+        text-align: left;
+    }
+    .txt17{
+        width: 681px;
+        margin: auto 224px;
+        padding-top: 51px;
+        text-align: left;
+    }
+    .txt18{
+        width: 681px;
+        margin: auto 224px;
+        padding-top: 51px;
+        text-align: left;
+    }
+    .txt19{
+        width: 698px;
+        margin: 0 auto;
+        padding-top: 177px;
+        text-align: center;
+    }
+    .txt20{
+        width: 698px;
+        margin: 0 auto;
+        padding-top: 221px;
+        text-align: center;
+    }
+    .txt21{
+        width: 916px;
+        margin: auto 83px;
+        padding-top: 82px;
+        text-align: left;
+    }
+    .txt22{
+        width: 805px;
+        margin: auto 83px;
+        padding-top: 180px;
+        text-align: left;
+    }
+    .txt23{
+        width: 656px;
+        margin: auto 310px;
+        padding-top: 82px;
+        text-align: left;
+    }
